@@ -31,10 +31,11 @@
 ## Versioning
 ##### To use OCULUS VR, we used (2018.4.4f1) rather than unity of the latest version (2019.1.1f1).
 
-## Device
+## Devices
 ##### Using SamsungGear (Oculus) VR
 ##### bluetooth Controller
 
+## Game Hints
 ##### A game of escape through ten clues!
 ##### (Clues)
 ###### 1.a blackboard; a vault; a coin; a chess piece
