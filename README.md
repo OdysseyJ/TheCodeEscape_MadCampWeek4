@@ -40,8 +40,8 @@
 ##### (Clues)
 ###### 1.a blackboard; a vault; a coin; a chess piece
 ###### 2-1. Chess, chessboard > Morse code paper.
-###### 22. Coins, Frame > Usb
-###### Usb, notebook > Morse Code
+###### 2-2. Coins, Frame > Usb
+######      Usb, notebook > Morse Code
 ###### 3. Switch, Morse Code > Handle
 ###### 4. Ball, Clipboard > Final safe number
 ###### 5. Final safe, handle > Escape
