@@ -53,7 +53,7 @@
 
 ## Hints
 ##### A game of escape through ten clues!
-##### (Clues)
+##### -Clues
 ###### 1.a blackboard; a vault; a coin; a chess piece
 ###### 2-1. Chess, chessboard > Morse code paper.
 ###### 2-2. Coins, Frame > Usb, notebook > Morse Code
